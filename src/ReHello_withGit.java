@@ -1,7 +1,7 @@
 
 public class ReHello_withGit {
 
-	static String N = "John";
+	static String N = "John+Vaibhav+Amit+Riya";
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 System.out.println("Hello Again Java");
