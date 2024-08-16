@@ -1,7 +1,7 @@
 
 public class ReHello {
 
-	static String N = "VAibhav";
+	static String N = "RAj";
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 System.out.println("Hello Again Java");
