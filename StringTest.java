@@ -4,6 +4,7 @@ public class StringTest {
 
 	public static String s1 = "vaibhav";
 	public String s2 = "RAM";
+	Public String s3 = "ABC";
 	
 	public static void main(String[]args) {
 		
